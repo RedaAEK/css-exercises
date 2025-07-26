@@ -1,0 +1,19 @@
+.Number-one,
+.Number-three,
+.Number-five {
+background-color:lightpink;
+font-family: Verdana, "DejaVu Sans" , sans-serif;
+
+}
+#Number-two {
+color: blue;
+font-size: 36px;
+}
+.Number-three,
+#Number-four {
+font-size: 24px;
+}
+#Number-four {
+background-color: lightgreen    ;
+font-weight: 700;
+}
